@@ -1,5 +1,4 @@
 
-
 suma_totala = input("Introdu suma totala pe care o factureaza freelancer-ul\n")
 suma_totala = int(suma_totala)
 
