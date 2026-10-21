@@ -1,9 +1,12 @@
 import random
+
 # calculatorul genereaza un numar random pana utilizatorul ghiceste
 numar_utiliztor = int(input("Introduceti numarul: "))
 numar_calculator = random.randint(1, 10)
 
 nr_incercari= 0
+
+# 
 while nr_incercari < 3:
 
     nr_incercari += 1
